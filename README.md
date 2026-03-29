@@ -3,6 +3,7 @@
 # 👋 Olá, eu sou Ana Luiza Martins
 
 🎓 Estudante de Ciência da Computação
+
 💻 Iniciando minha jornada na área de tecnologia
 
 ---
