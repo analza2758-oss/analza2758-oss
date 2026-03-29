@@ -1,6 +1,6 @@
 # analza2758
 
-# 👋 Olá, eu sou Ana Luiza Martins
+# 👋 Olá, eu sou Ana Luiza 
 
 🎓 Estudante de Ciência da Computação
 
