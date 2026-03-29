@@ -31,4 +31,4 @@ Me desenvolver na área de tecnologia e conquistar minha primeira oportunidade c
 ## 📫 Contato
 
 * 📧 Email: [analza2758@gmail.com]
-* 💼 LinkedIn: [[seu link](https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383/)]
+* 💼 LinkedIn:(https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383/)]
