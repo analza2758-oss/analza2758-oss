@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Ana Luiza Martins
 
-🎓 Estudante de **[Seu curso, ex: Ciência da Computação]**
+🎓 Estudante de Ciência da Computação
 💻 Iniciando minha jornada na área de tecnologia
 
 ---
