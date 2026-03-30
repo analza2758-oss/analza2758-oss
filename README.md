@@ -28,9 +28,12 @@ Tenho interesse em crescer profissionalmente e construir projetos cada vez melho
 Me desenvolver na área de tecnologia e conquistar minha primeira oportunidade como desenvolvedora.
 
 ---
+
 ## 🏆 Certifications
 - 🔐 Introduction to Cybersecurity (Cisco Networking Academy)
 https://www.credly.com/badges/92aed652-7702-4ccf-a77e-22748ba5c24d/public_url
+
+---
 
 ## 📫 Contato
 
