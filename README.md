@@ -18,7 +18,7 @@ Tenho interesse em crescer profissionalmente e construir projetos cada vez melho
 ## 📚 O que estou aprendendo
 
 * Lógica de programação
-* CSS / Java
+* Java
 * Conceitos básicos de desenvolvimento
 
 ---
