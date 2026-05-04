@@ -38,4 +38,4 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a77e-22748ba5c24d/public_url
 ## 📫 Contato
 
 * 📧 Email: [analza2758@gmail.com]
-* 💼 LinkedIn:(https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383/)]
+* 💼 LinkedIn:[![Botão](https://img.shields.io/badge/CLIQUE-AQUI-black)](https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]
