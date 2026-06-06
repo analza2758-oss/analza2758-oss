@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="SUA_IMAGEM_BANNER_AQUI" width="100%">
+<img src="./assets/banner.png" width="100%">
+
+<br>
 
 # ✦ Ana Luiza Martins Pereira ✦
 
-### ☾ Computer Science Student • First Semester • Dreaming in Purple ☽
+### ☾ computer science student ☽
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+my+future+one+line+of+code+at+a+time...;Exploring+technology+and+creativity...;Welcome+to+my+little+purple+universe..." />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=building+my+future+one+line+at+a+time;learning+creating+evolving;welcome+to+my+purple+universe" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -18,12 +22,19 @@
 
 </div>
 
+<br>
+
+<table>
+<tr>
+
+<td width="60%">
+
 ## ⌜ ABOUT_ME.exe ⌟
 
 ```yaml
 name: Ana Luiza Martins Pereira
 
-role: Computer Science Student
+course: Computer Science
 
 semester: 1st
 
@@ -33,38 +44,37 @@ current_focus:
   - Figma
   - Programming Logic
 
-status: Learning, creating and evolving.
-
-mission: Turn ideas into projects.
+status: Learning and building.
 ```
 
----
+I am currently taking my first steps in the world of technology.
 
-## ⌜ PURPLE_UNIVERSE ⌟
-
-<table>
-<tr>
-<td width="50%">
-
-### 〔 INTERESTS 〕
-
-* Software Development
-* UI/UX Design
-* Creative Technology
-* Learning New Things
-* Personal Growth
+Every project, certification and challenge is an opportunity to grow and transform ideas into something real.
 
 </td>
 
-<td width="50%">
+<td width="40%">
 
-<img src="SUA_PERSONAGEM_BRUXINHA_AQUI" width="250">
+<div align="center">
+
+<img src="./assets/witch-girl.png" width="260">
+
+</div>
 
 </td>
+
 </tr>
 </table>
 
----
+<br>
+
+<div align="center">
+
+☾ ⋆｡𖦹 °✩ ────────────── ☾ ⋆｡𖦹 °✩
+
+</div>
+
+<br>
 
 ## ⌜ TECH_STACK ⌟
 
@@ -74,37 +84,91 @@ mission: Turn ideas into projects.
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+*:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
+
+</div>
+
+<br>
+
+## ⌜ CURRENT_QUEST ⌟
+
+```text
+[✓] Learning Java
+
+[✓] Learning HTML
+
+[✓] Exploring Figma
+
+[ ] Creating amazing projects
+
+[ ] Building my portfolio
+
+[ ] Becoming a great developer
+```
+
+<br>
+
+<div align="center">
+
+<img src="./assets/stars.gif" width="450">
+
+</div>
+
+<br>
 
 ## ⌜ CERTIFICATIONS ⌟
 
-### Cisco Networking Academy
+╭──────────────────────────────╮
 
-**Introduction to Cybersecurity**
+Cisco Networking Academy
 
-Completed: 29/03/2026
+Introduction to Cybersecurity
+
+Status: Completed ✓
+
+╰──────────────────────────────╯
 
 Credential:
 
 https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
----
+<br>
+
+<div align="center">
+
+☾ ⋆｡𖦹 °✩ ────────────── ☾ ⋆｡𖦹 °✩
+
+</div>
+
+<br>
 
 ## ⌜ CONNECT ⌟
 
 <div align="center">
 
 <a href="mailto:analza2758@gmail.com">
-<img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/email-c084fc?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383">
-<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/linkedin-a855f7?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+*:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
+
+</div>
+
+<br>
 
 ## ⌜ GITHUB_MAGIC ⌟
 
@@ -116,30 +180,23 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 </div>
 
----
-
-## ⌜ CURRENT_QUEST ⌟
-
-```text
-[✓] Learning Java
-[✓] Learning HTML
-[✓] Exploring Figma
-[ ] Creating amazing projects
-[ ] Becoming a great developer
-```
-
----
+<br>
 
 <div align="center">
 
-<img src="SUA_LUA_GIF_AQUI" width="250">
+<img src="./assets/moon.gif" width="220">
 
-### ･ﾟ✧ "Every expert was once a beginner." ✧･ﾟ
+### ･ﾟ✧ every expert was once a beginner ✧･ﾟ
 
-☾ Thanks for visiting my universe ☽
+building dreams, projects and possibilities.
+
+<br>
 
 *:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
 
 </div>
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=A855F7"/>
+
