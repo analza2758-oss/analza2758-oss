@@ -1,69 +1,112 @@
 <div align="center">
 
-# ✨ Ana Luiza Martins Pereira ✨
+<img src="SUA_IMAGEM_BANNER_AQUI" width="100%">
 
-### Estudante de Ciência da Computação 💜
+# ✦ Ana Luiza Martins Pereira ✦
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8A2BE2&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontColor=ffffff&fontAlignY=35" />
+### ☾ Computer Science Student • First Semester • Dreaming in Purple ☽
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+my+future+one+line+of+code+at+a+time...;Exploring+technology+and+creativity...;Welcome+to+my+little+purple+universe..." />
 
 </div>
 
-<br>
-
-## 💜 Sobre mim
-
-Olá! Me chamo **Ana Luiza Martins Pereira**.
-
-Sou estudante de **Ciência da Computação**, atualmente no **1º período**.
-
-Tenho grande interesse por tecnologia e estou constantemente buscando novos conhecimentos para desenvolver minhas habilidades acadêmicas e profissionais. Atualmente estudo desenvolvimento de software, design de interfaces e fundamentos da computação, sempre em busca de evolução contínua.
-
 ---
-
-## 🌐 Contato
-
-<p align="center">
-
-<a href="mailto:analza2758@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
-
-## 💻 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,figma" />
+*:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
+
+</div>
+
+## ⌜ ABOUT_ME.exe ⌟
+
+```yaml
+name: Ana Luiza Martins Pereira
+
+role: Computer Science Student
+
+semester: 1st
+
+current_focus:
+  - Java
+  - HTML
+  - Figma
+  - Programming Logic
+
+status: Learning, creating and evolving.
+
+mission: Turn ideas into projects.
+```
+
+---
+
+## ⌜ PURPLE_UNIVERSE ⌟
+
+<table>
+<tr>
+<td width="50%">
+
+### 〔 INTERESTS 〕
+
+* Software Development
+* UI/UX Design
+* Creative Technology
+* Learning New Things
+* Personal Growth
+
+</td>
+
+<td width="50%">
+
+<img src="SUA_PERSONAGEM_BRUXINHA_AQUI" width="250">
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⌜ TECH_STACK ⌟
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,figma,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🏆 Certificações
+## ⌜ CERTIFICATIONS ⌟
 
 ### Cisco Networking Academy
 
-📜 **Introduction to Cybersecurity**
+**Introduction to Cybersecurity**
 
-- Emitido por: Cisco Networking Academy
-- Conclusão: 29/03/2026
+Completed: 29/03/2026
 
-🔗 Certificado:
+Credential:
 
 https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 ---
 
-## 📊 Estatísticas GitHub
+## ⌜ CONNECT ⌟
 
-> ⚠️ Troque `SEU_USUARIO` pelo seu usuário do GitHub.
+<div align="center">
+
+<a href="mailto:analza2758@gmail.com">
+<img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383">
+<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## ⌜ GITHUB_MAGIC ⌟
 
 <div align="center">
 
@@ -75,21 +118,28 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 ---
 
-## 🌱 Atualmente aprendendo
+## ⌜ CURRENT_QUEST ⌟
 
-- Java
-- HTML
-- Desenvolvimento Web
-- Figma
-- Lógica de Programação
+```text
+[✓] Learning Java
+[✓] Learning HTML
+[✓] Exploring Figma
+[ ] Creating amazing projects
+[ ] Becoming a great developer
+```
 
 ---
 
 <div align="center">
 
-### 💜 "Pequenos passos todos os dias também levam longe."
+<img src="SUA_LUA_GIF_AQUI" width="250">
+
+### ･ﾟ✧ "Every expert was once a beginner." ✧･ﾟ
+
+☾ Thanks for visiting my universe ☽
+
+*:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8A2BE2"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=A855F7"/>
