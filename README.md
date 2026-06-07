@@ -1,7 +1,8 @@
-enter">
+
+<div align="center">
 <img src="./assets/banner.png" width="100%">
 <br>
-
+  
 # Ana Luiza Martins Pereira 
 
 ###  computer science student 
