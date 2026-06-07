@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=FF00FF"/>
+
 <div align="center">
 <img src="./assets/banner.png" width="100%">
 <br>
