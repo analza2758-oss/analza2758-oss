@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=building+my+future+one+line+at+a+time;learning+creating+evolving;welcome+to+my+purple+universe" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=building+my+future+one+line+at+a+time;learning+creating+evolving;welcome+to+my+purple+universe" />
 
 </div>
 
@@ -148,7 +148,7 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/A855F7/analza2758-oss" alt="GitHub Contributions" width="100%" />
+<img src="https://ghchart.rshah.org/FF00FF/analza2758-oss" alt="GitHub Contributions" width="100%" />
 
 </div>
 
@@ -159,11 +159,11 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 <div align="center">
 
 <a href="mailto:analza2758@gmail.com">
-<img src="https://img.shields.io/badge/email-c084fc?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/ana-luiza-martins-pereira-111386383">
-<img src="https://img.shields.io/badge/linkedin-a855f7?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/linkedin-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -195,6 +195,16 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 ･ﾟ✧ every expert was once a beginner ✧･ﾟ
 
 building dreams, projects and possibilities.
+
+<br>
+
+*:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF00FF"/>
 
 <br>
 
