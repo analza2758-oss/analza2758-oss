@@ -207,11 +207,3 @@ building dreams, projects and possibilities.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF00FF"/>
 
 <br>
-
-*:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=A855F7"/>
