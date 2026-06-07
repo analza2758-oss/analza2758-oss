@@ -75,6 +75,7 @@ Every project, certification and challenge is an opportunity to grow and transfo
 
 ## ⌜ TECH_STACK ⌟
 
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,html,figma,git,github,vscode" />
