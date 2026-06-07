@@ -172,6 +172,13 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=analza2758-oss&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -180,14 +187,6 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 <div align="center">
 
 <img src="./assets/moon.gif" width="100%">
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=analza2758-oss&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analza2758-oss&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
 
 <br>
 
