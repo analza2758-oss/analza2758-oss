@@ -133,8 +133,6 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 <div align="center">
 
-☾ ⋆｡𖦹 °✩ ────────────── ☾ ⋆｡𖦹 °✩
-
 </div>
 
 <br>
