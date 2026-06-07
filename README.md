@@ -85,8 +85,6 @@ Every project, certification and challenge is an opportunity to grow and transfo
 
 <div align="center">
 
-*:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
-
 </div>
 
 <br>
