@@ -144,6 +144,18 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 <br>
 
+## ⌜ GITHUB_MAGIC ⌟
+
+<div align="center">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=analza2758-oss&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
 ## ⌜ CONNECT ⌟
 
 <div align="center">
@@ -163,18 +175,6 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 <div align="center">
 
 *:･ﾟ✧*:･ﾟ✦　　　✦　　　*:･ﾟ✧*:･ﾟ✦
-
-</div>
-
-<br>
-
-## ⌜ GITHUB_MAGIC ⌟
-
-<div align="center">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=analza2758-oss&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
