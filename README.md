@@ -4,7 +4,7 @@
 
 # *:･ﾟ Ana Luiza Martins Pereira *:･ﾟ
 
-### ☾ computer science student ☽
+###  computer science student 
 
 <br>
 
