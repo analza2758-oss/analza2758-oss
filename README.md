@@ -181,6 +181,14 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 <img src="./assets/moon.gif" width="100%">
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=analza2758-oss&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analza2758-oss&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
 <br>
 
 ･ﾟ✧ every expert was once a beginner ✧･ﾟ
