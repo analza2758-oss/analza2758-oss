@@ -144,13 +144,11 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 <br>
 
-## ⌜ GITHUB_MAGIC ⌟
+## ⌜ CONTRIBUTIONS ⌟
 
 <div align="center">
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=analza2758-oss&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/A855F7/analza2758-oss" alt="GitHub Contributions" width="100%" />
 
 </div>
 
@@ -180,7 +178,13 @@ https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
 
 <br>
 
+## ⌜ GITHUB_MAGIC ⌟
+
+<div align="center">
+
 </div>
+
+<br>
 
 <div align="center">
 
