@@ -120,20 +120,17 @@ Every project, certification and challenge is an opportunity to grow and transfo
 
 ## ⌜ CERTIFICATIONS ⌟
 
-╭──────────────────────────────╮
+```yaml
+institution: Cisco Networking Academy
 
-Cisco Networking Academy
+course: Introduction to Cybersecurity
 
-Introduction to Cybersecurity
-
-Status: Completed ✓
-
-╰──────────────────────────────╯
+status: Completed ✓
+```
 
 Credential:
 
 https://www.credly.com/badges/92aed652-7702-4ccf-a7fe-22748ba5c24d/public_url
-
 <br>
 
 <div align="center">
