@@ -2,7 +2,7 @@
 <img src="./assets/banner.png" width="100%">
 <br>
 
-# *:･ﾟ Ana Luiza Martins Pereira *:･ﾟ
+# Ana Luiza Martins Pereira 
 
 ###  computer science student 
 
